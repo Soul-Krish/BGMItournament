@@ -1,0 +1,153 @@
+*{
+    margin: 10px;
+}
+.ig{
+    height: 100px;
+    width: 140px;
+    margin-left: 45%;
+}
+.nav{
+    background-image: url("dark1.avif");
+    background-size: cover;
+    padding:5px;
+    border:5px;
+    border-color: aqua;
+    border-radius: 30px;
+    border-width: 10px;
+    border: solid;
+    
+}
+/**body{
+    background-image: url("bgmi\ background.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 100%;
+    height: auto;
+}**/
+.img{
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 100%;
+    height: auto;
+}
+.one{
+    height: 400px;
+    width: 550px;
+    background:linear-gradient(purple,red);
+    border: solid;
+    
+}
+.one1{
+    background-color:black;
+    position:absolute;
+    margin-left: 180px;
+    border-radius: 15px;
+}
+.bot{
+    position:absolute;
+    margin-top: 120px;
+    margin-left: 40px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+.pts{
+    background:linear-gradient(red,orange,yellow);
+    width: 200px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: dotted;
+    border-width: 5px;
+    border-radius: 20px;
+    border-spacing: 10px;
+    padding: 10px;
+    margin: 50px;
+}
+body{
+   /** background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1)90%);**/
+   background-image: url(dark.avif);
+   background-size: contain;
+}
+.reg{
+    background-color: rgb(6, 106, 172);
+    display: inline-block;
+    margin: 30px;
+    margin-left: 45%;
+    height: 70px;
+    width: 150px;
+    text-align: center;
+    font-size: 30px;
+    border: solid;
+    border-radius: 35px;
+    border-color: black;
+   
+}
+.tt{
+    height: 500px;
+    width: 50%;
+    background:linear-gradient(green,blue);
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+    display: inline-block;
+    border: solid;
+    border-width: 10px;
+
+
+}
+.of{
+    height: 500px;
+    width: 50%;
+    background:linear-gradient(orange,yellow);
+    font-size: 30px;
+    padding: 10px;
+    padding-top: 10px;
+    border: solid;
+    border-width: 10px;
+}
+.container{
+    display: flex;
+}
+.ul{
+    margin-top: 45px;
+}
+#jk{
+    height: 130px;
+    width: 30%;
+    background:linear-gradient(teal,lightblue);
+    margin-left: 35%;
+    text-align: center;
+    padding: 10px;
+}
+.ul1{
+    font-weight: bold;
+}
+.insta{
+    height: 55px;
+    width: 55px;
+}
+.YT{
+    height: 55px;
+    width: 55px;
+}
+.pen{
+    height: 55px;
+    width: 55px;
+}
+.tit{
+    font-family: 'Oswald', sans-serif;
+    font-size: 6em;
+    color: rgb(237, 228, 228);
+    text-shadow: 0 0 20px #ff005b;
+
+}
+
+
